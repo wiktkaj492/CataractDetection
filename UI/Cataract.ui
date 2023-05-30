@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>698</width>
-    <height>623</height>
+    <width>654</width>
+    <height>478</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -39,21 +39,11 @@
     <string>Choose</string>
    </property>
   </widget>
-  <widget class="QGraphicsView" name="graphicsView">
-   <property name="geometry">
-    <rect>
-     <x>190</x>
-     <y>140</y>
-     <width>281</width>
-     <height>231</height>
-    </rect>
-   </property>
-  </widget>
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
      <x>190</x>
-     <y>390</y>
+     <y>410</y>
      <width>141</width>
      <height>20</height>
     </rect>
@@ -66,7 +56,7 @@
    <property name="geometry">
     <rect>
      <x>350</x>
-     <y>390</y>
+     <y>410</y>
      <width>121</width>
      <height>21</height>
     </rect>
@@ -79,7 +69,7 @@
    <property name="geometry">
     <rect>
      <x>190</x>
-     <y>420</y>
+     <y>440</y>
      <width>141</width>
      <height>20</height>
     </rect>
@@ -92,7 +82,7 @@
    <property name="geometry">
     <rect>
      <x>350</x>
-     <y>420</y>
+     <y>440</y>
      <width>121</width>
      <height>21</height>
     </rect>
@@ -105,13 +95,26 @@
    <property name="geometry">
     <rect>
      <x>160</x>
-     <y>80</y>
+     <y>70</y>
      <width>361</width>
      <height>51</height>
     </rect>
    </property>
    <property name="text">
     <string>                              Cataract Detection</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>140</y>
+     <width>250</width>
+     <height>250</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
    </property>
   </widget>
  </widget>
